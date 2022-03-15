@@ -1,0 +1,17 @@
+/node_modules
+/.pnp
+.pnp.js
+
+.idea/
+
+secrets.json
+
+# testing
+/coverage
+
+# production
+/build
+data/*
+
+# misc
+.DS_Store
